@@ -1,5 +1,5 @@
 const Articules = () => {
-    return <div>Articules</div>
+    return <div>Articules hola esto es algo nuevo</div>
 };
 
 export default Articules;
